@@ -1,16 +1,37 @@
-# local_eather
+# 🌤️ Local Weather App
 
-A new Flutter project.
+A Flutter app that shows your current location's weather using the OpenWeatherMap API and your device's GPS. Displays temperature, city name, and weather condition with animated icons using Lottie.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 Get current location using Geolocator
+- ☁️ Fetch real-time weather from OpenWeatherMap API
+- 🎞️ Animated weather display using Lottie
+- 💡 Clean, minimal UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+ here: `screenshots/` folder)*
+
+---
+
+## 🧰 Tech Stack
+
+- **Flutter**
+- **geolocator** – for device location
+- **http** – for API requests
+- **lottie** – for animated weather visuals
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/local_weather.git
+cd local_weather
