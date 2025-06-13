@@ -14,7 +14,7 @@ A Flutter app that shows your current location's weather using the OpenWeatherMa
 ---
 
 ## 📱 Screenshots
-
+![IMAGE ALT](https://github.com/Danielogbebor/local_Weather/blob/6865601acbb37ae9d9254dee76448e1dba346859/Simulator%20Screenshot%20-%20iPhone%2016%20Plus%20-%202025-06-13%20at%2018.23.07.png)
  here: `screenshots/` folder)*
 
 ---
